@@ -3,3 +3,4 @@ string query
 ---
 #response fields
 string answer
+bool success
