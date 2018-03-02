@@ -4,3 +4,4 @@ string object
 ---
 #response fields
 bool success
+int64 error_code
