@@ -1,6 +1,5 @@
 #request fields
 string command
-string object
 ---
 #response fields
 bool success
