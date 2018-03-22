@@ -1,0 +1,5 @@
+#request fields
+bool reload
+---
+#response fields
+bool success

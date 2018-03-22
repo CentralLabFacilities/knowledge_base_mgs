@@ -55,6 +55,7 @@ ADD_SERVICE_FILES(
    FILES
    Query.srv
    Data.srv
+   Reload.srv
 )
 
 ## Generate actions in the 'action' folder
